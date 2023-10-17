@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "react-infinite-scroll-component": "^6.1.0",
-    "react-router-dom": "^6.17.0",
-    "react-top-loading-bar": "^2.3.1"
-  }
-}
